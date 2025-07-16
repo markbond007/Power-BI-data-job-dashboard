@@ -1,7 +1,7 @@
 # Power-BI-data-job-dashboard
 #Data Jobs Dashboard w/ Power BI
 
-![Dashboard Page 1](/image/data%20job%20dashboard.PNG)
+![Dashboard Page 1](https://github.com/markbond007/Power-BI-data-job-dashboard/blob/main/data%20job%20dashboard.PNG?raw=true)
 [view interactive dashboard here in my power bi service](https://app.powerbi.com/links/w9E6_Ajvaq?ctid=9c5e5a75-9a6e-4f05-ae78-a337d9582074&pbi_source=linkShare)
 
 ## Introduction
