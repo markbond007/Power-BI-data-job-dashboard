@@ -2,6 +2,7 @@
 #Data Jobs Dashboard w/ Power BI
 
 ![Dashboard Page 1](https://github.com/markbond007/Power-BI-data-job-dashboard/blob/main/data%20job%20dashboard.PNG?raw=true)
+
 [view interactive dashboard here in my power bi service](https://app.powerbi.com/links/w9E6_Ajvaq?ctid=9c5e5a75-9a6e-4f05-ae78-a337d9582074&pbi_source=linkShare)
 
 ## Introduction
@@ -31,7 +32,7 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 
 ### Page 1: High-Level Market View
 
-![Dashboard Page 1](/image/data%20job%20dashboard.PNG)
+![Dashboard Page 1]([/image/data%20job%20dashboard.PNG](https://github.com/markbond007/Power-BI-data-job-dashboard/blob/main/data%20job%20dashboard.PNG?raw=true))
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
